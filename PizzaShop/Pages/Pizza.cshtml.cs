@@ -5,8 +5,6 @@ namespace PizzaShop.Pages
 {
     public class PizzaModel : PageModel
     {
-        public void OnGet()
-        {
-        }
+        
     }
 }
