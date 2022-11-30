@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PizzaShop
+build_property.RootNamespace = PizzaShop
+build_property.ProjectDir = D:\HCMUT\HK221\PizzaShop\PizzaShop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\HCMUT\HK221\PizzaShop\PizzaShop
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/CheckOut/CheckOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tPdXRcQ2hlY2tPdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Forms/CustomPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcQ3VzdG9tUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Forms/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybXNcVGhhbmtZb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Pizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HCMUT/HK221/PizzaShop/PizzaShop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-co8vu2wdec
