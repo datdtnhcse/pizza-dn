@@ -2,14 +2,14 @@
 @model PizzaShop.Pages.CheckOut.CheckOutModel
 @{
 }
-
+    
 <h1>Your Order!</h1>
 @{
-    var ImagePath = "~/images/Pizzas/" + (Model.PizzaName + ".png");
+    var ImagePath = "~/images/Pizzas/" + (@Model.ImageTitle + ".png");
 }
 <div class="align-content-center"> 
     <div class="col-3 mx-auto mb-5 ">
-        <img src=@ImagePath class="mainImage w-100" asp-append-version="true" />
+        <img src="@ImagePath" class="mainImage w-100" asp-append-version="true" />
         <p>Your order for the @Model.PizzaName Pizza is ready!</p>
         <p>Total price for your order is: @Model.PizzaPrice$</p>
         <br/>
